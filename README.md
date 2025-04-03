@@ -46,7 +46,7 @@ To run the executable:
 ## Version Control
 This project is version-controlled using Git. To clone the repository:
 ```bash
-git clone https://github.com/YoussefLe/C1M1
+git clone https://github.com/YoussefLe/C1M1.git
 ```
 To add changes and push to GitHub:
 ```bash
